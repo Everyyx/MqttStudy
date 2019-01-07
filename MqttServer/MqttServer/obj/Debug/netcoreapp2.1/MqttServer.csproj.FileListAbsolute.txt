@@ -1,0 +1,11 @@
+C:\Users\every\Desktop\MQTT\MqttServer\MqttServer\bin\Debug\netcoreapp2.1\MqttServer.deps.json
+C:\Users\every\Desktop\MQTT\MqttServer\MqttServer\bin\Debug\netcoreapp2.1\MqttServer.runtimeconfig.json
+C:\Users\every\Desktop\MQTT\MqttServer\MqttServer\bin\Debug\netcoreapp2.1\MqttServer.runtimeconfig.dev.json
+C:\Users\every\Desktop\MQTT\MqttServer\MqttServer\bin\Debug\netcoreapp2.1\MqttServer.dll
+C:\Users\every\Desktop\MQTT\MqttServer\MqttServer\obj\Debug\netcoreapp2.1\MqttServer.csprojAssemblyReference.cache
+C:\Users\every\Desktop\MQTT\MqttServer\MqttServer\obj\Debug\netcoreapp2.1\MqttServer.csproj.CoreCompileInputs.cache
+C:\Users\every\Desktop\MQTT\MqttServer\MqttServer\obj\Debug\netcoreapp2.1\MqttServer.AssemblyInfoInputs.cache
+C:\Users\every\Desktop\MQTT\MqttServer\MqttServer\obj\Debug\netcoreapp2.1\MqttServer.AssemblyInfo.cs
+C:\Users\every\Desktop\MQTT\MqttServer\MqttServer\bin\Debug\netcoreapp2.1\MqttServer.pdb
+C:\Users\every\Desktop\MQTT\MqttServer\MqttServer\obj\Debug\netcoreapp2.1\MqttServer.dll
+C:\Users\every\Desktop\MQTT\MqttServer\MqttServer\obj\Debug\netcoreapp2.1\MqttServer.pdb
