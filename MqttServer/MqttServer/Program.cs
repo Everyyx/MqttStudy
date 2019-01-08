@@ -76,7 +76,7 @@ namespace mqttServer
             };
 
             
-            Console.WriteLine("Press any key to exit.");
+            Console.WriteLine("Press any key to stop the server.");
             Console.ReadLine();
             await mqttServer.StopAsync();
 

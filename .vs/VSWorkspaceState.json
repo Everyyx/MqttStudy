@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MqttServer"
+    "\\MqttClient\\MqttClient"
   ],
-  "SelectedNode": "\\MqttServer\\MqttServer.sln",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
