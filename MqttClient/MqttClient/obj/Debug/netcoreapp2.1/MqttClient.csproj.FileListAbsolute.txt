@@ -1,0 +1,11 @@
+C:\Users\every\Desktop\MQTT\MqttClient\MqttClient\bin\Debug\netcoreapp2.1\MqttClient.deps.json
+C:\Users\every\Desktop\MQTT\MqttClient\MqttClient\bin\Debug\netcoreapp2.1\MqttClient.runtimeconfig.json
+C:\Users\every\Desktop\MQTT\MqttClient\MqttClient\bin\Debug\netcoreapp2.1\MqttClient.runtimeconfig.dev.json
+C:\Users\every\Desktop\MQTT\MqttClient\MqttClient\bin\Debug\netcoreapp2.1\MqttClient.dll
+C:\Users\every\Desktop\MQTT\MqttClient\MqttClient\obj\Debug\netcoreapp2.1\MqttClient.csproj.CoreCompileInputs.cache
+C:\Users\every\Desktop\MQTT\MqttClient\MqttClient\obj\Debug\netcoreapp2.1\MqttClient.AssemblyInfoInputs.cache
+C:\Users\every\Desktop\MQTT\MqttClient\MqttClient\obj\Debug\netcoreapp2.1\MqttClient.AssemblyInfo.cs
+C:\Users\every\Desktop\MQTT\MqttClient\MqttClient\bin\Debug\netcoreapp2.1\MqttClient.pdb
+C:\Users\every\Desktop\MQTT\MqttClient\MqttClient\obj\Debug\netcoreapp2.1\MqttClient.csprojAssemblyReference.cache
+C:\Users\every\Desktop\MQTT\MqttClient\MqttClient\obj\Debug\netcoreapp2.1\MqttClient.dll
+C:\Users\every\Desktop\MQTT\MqttClient\MqttClient\obj\Debug\netcoreapp2.1\MqttClient.pdb
