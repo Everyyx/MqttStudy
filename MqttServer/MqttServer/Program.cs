@@ -21,7 +21,7 @@ namespace mqttServer
         {
             var mqttServer = new MqttFactory().CreateMqttServer();
 
-            IPAddress iPAddress = IPAddress.Parse("127.0.0.1");
+            IPAddress iPAddress = IPAddress.Parse("192.168.137.1");
             var optionBuilder = new MqttServerOptionsBuilder()
                 .WithConnectionBacklog(100)
                 .WithDefaultEndpointBoundIPAddress(iPAddress)
@@ -56,7 +56,7 @@ namespace mqttServer
 
             mqttServer.ClientConnected += (s, e) =>
             {
-                MyWriteLine($"{e.ClientId} has connected!");
+                 MyWriteLine($"{e.ClientId} has connected!");
             };
 
             mqttServer.ClientDisconnected += (s, e) =>
@@ -75,6 +75,14 @@ namespace mqttServer
                 MyWriteLine("The mqttserver has stopped!");
             };
 
+            mqttServer.ApplicationMessageReceived += (s, e) =>
+              {
+                  MyWriteLine($"Receive message from  client-{e.ClientId}:");
+                  MyWriteLine($"Topic:{e.ApplicationMessage.Topic}\n");
+                  //MyWriteLine($"ContenType:{e.ApplicationMessage.ContentType}");
+                  //MyWriteLine($"{e.ApplicationMessage.Payload.ToString()}");
+
+              };
             
             Console.WriteLine("Press any key to stop the server.");
             Console.ReadLine();
@@ -90,3 +98,4 @@ namespace mqttServer
         }
     }
 }
+
