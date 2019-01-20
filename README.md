@@ -25,8 +25,8 @@ Tool box:<https://www.hivemq.com/mqtt-toolbox/>
 **MQTTLens**(*whitch i used*):MQTTLens is build on top of MQTT.js. All UI components are created with HTML and JavaScript, based on Polymer and Web Components.
 ## What will been included in this project?
 - [x] MqttServer.Console
-- [x] MqttClient.Console(still has problem)
+- [x] MqttClient.Console(unstable,easily disconnect by itself)
+- [x] MqttClient.Esp8266
 - [ ] MqttServer.uwp
 - [ ] MqttClient.uwp
-- [x] MqttClient.Esp8266
 - [ ] MqttBroker.web
